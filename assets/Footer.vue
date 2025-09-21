@@ -41,8 +41,8 @@ export default {
   data() {
     return {
       homeUrl: "https://pan.096000.xyz/",
-      blogUrl: "https://blog.liushen.fun/",
-      githubUrl: "https://github.com/bfmen",
+      blogUrl: "https://blog.zrf.me/p/Cloudflare-R2-oss",
+      githubUrl: "https://github.com/bfmen/FlareDrive-R2",
       emailUrl: "mailto:01@lius.fun"
     };
   }
